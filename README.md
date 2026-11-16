@@ -34,10 +34,10 @@ O ETS teve o menor erro no teste; o SARIMA superou o Holt-Winters, provavelmente
 
 | Arquivo | Conteúdo |
 |---|---|
-| `serie_temporais_CS_log.ipynb` | Notebook (kernel R) com todo o código e as saídas |
-| `Grupo_..._Relatório___Análise_de_dado_real.pdf` | Relatório final com a análise completa e a discussão |
+| `v222_serie_temporais_CS_log.ipynb` | Notebook (kernel R) com todo o código e as saídas |
+| `v7_Grupo_..._Relatório___Análise_de_dado_real.pdf` | Relatório final com a análise completa e a discussão |
 
-## Ferramentas
+## Tecnologias
 
 **R**: `forecast`, `tseries`, `tsoutliers`, `lmtest`, `dplyr`, `lubridate` · Jupyter Notebook
 
@@ -52,7 +52,7 @@ O ETS teve o menor erro no teste; o SARIMA superou o Holt-Winters, provavelmente
 
 ## Autores
 
-- Marcelo Xinhong Huang
+- **Marcelo Xinhong Huang**
 - Letícia Yumi Ichibara
 - Pedro Henrique de Araujo
 
